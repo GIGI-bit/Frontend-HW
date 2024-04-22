@@ -1,0 +1,499 @@
+.logo-png {
+  height: 15px;
+}
+
+.call-png {
+  height: 30px;
+}
+
+.email-png {
+  height: 30px;
+}
+
+.header-section > p {
+  font-style: Ubuntu;
+}
+
+.main-div {
+  background-color: lightslategray;
+}
+
+.information-text {
+  color: white;
+}
+
+.learn-more-btn {
+  width: 278px;
+  height: 52px;
+  padding: 0px 40px 0px 40px;
+  border: 1px solid white;
+  border-radius: 4px;
+  color: white;
+  background-color: transparent;
+  font-family: Ubuntu;
+  font-weight: 700;
+}
+
+.submit-btn {
+  border-radius: 4px;
+  color: white;
+  width: 224px;
+  height: 52px;
+  padding: 0px 40px 0px 40px;
+  background-color: rgba(255, 90, 48, 1);
+  border: 0px;
+  font-weight: 700;
+  font-family: Ubuntu;
+}
+
+.main-div > h3 {
+  font-family: Ubuntu;
+  font-size: 28px;
+  font-weight: 700;
+  color: rgba(255, 255, 255, 50%);
+}
+
+.selected-slide {
+  font-size: 28px;
+  font-weight: 700;
+  font-family: Ubuntu;
+  color: white;
+}
+
+.selected-slide > div {
+  border-bottom: 2px solid white;
+  width: 178px;
+}
+
+.line {
+  border-bottom: 2px solid rgba(255, 255, 255, 50%);
+  width: 178px;
+}
+
+.main-section > h1 {
+  color: black;
+  font-family: Ubuntu;
+  width: 800px;
+  height: 60px;
+}
+
+.text {
+  font-family: Ubuntu;
+  font-weight: 400;
+  width: 810px;
+  height: 27px;
+  size: 18px;
+  color: rgba(120, 122, 128, 1);
+}
+
+.icon-header {
+  width: 285px;
+  height: 30px;
+  font-family: Ubuntu;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.h3-style {
+  font-family: Ubuntu;
+  font-weight: 700;
+  size: 28px;
+  width: 520px;
+  height: 42px;
+}
+
+.label {
+  width: 38px;
+  height: 21px;
+  font-family: Ubuntu;
+  font-size: 14px;
+  font-weight: 400;
+  color: rgba(66, 69, 81, 1);
+}
+
+.input-box {
+  width: 260px;
+  height: 44px;
+  padding: 11px 171px 12px 16px;
+  border-radius: 4px 0px 0px 0px;
+  border: 1px 0px 0px 0px;
+  background: rgba(244, 245, 246, 1);
+  border: 1px solid rgba(215, 218, 221, 1);
+}
+
+.service-box {
+  width: 285px;
+  height: 285px;
+  padding: 89px 0px 90px 0px;
+  border-radius: 4px 0px 0px 0px;
+  border: 1px 0px 0px 0px;
+  border: 1px solid rgba(229, 232, 237, 1);
+  background: rgba(255, 255, 255, 1);
+}
+
+.service-box > img {
+  margin-left: 90px;
+}
+
+.service-box > p {
+  margin-left: 70px;
+}
+
+.selected {
+  background-image: url(/images/image.png);
+  background-repeat: no-repeat;
+}
+
+.service-name {
+  font-family: Ubuntu;
+  width: 204px;
+  height: 30px;
+}
+
+.selected-name {
+  color: white;
+}
+
+.send-btn {
+  width: 104px;
+  height: 44px;
+  padding: 0px 32px 0px 32px;
+  border-radius: 4px 0px 0px 0px;
+  border: 0px;
+  background: rgba(255, 90, 48, 1);
+  font-family: Ubuntu;
+  font-weight: 700;
+  color: white;
+}
+
+.building-slides {
+  width: 390px;
+  height: 345px;
+  border-radius: 4px 4px 0px 0px;
+  margin-bottom: 100px;
+}
+
+.building-info {
+  font-family: Ubuntu;
+  font-size: 14px;
+  font-weight: 400;
+  width: 350px;
+  height: 21px;
+  color: rgba(120, 122, 128, 1);
+}
+
+.view-btn {
+  width: 172px;
+  height: 44px;
+  top: 372px;
+  left: 109px;
+  padding: 0px 32px 0px 32px;
+  border-radius: 4px 0px 0px 0px;
+  border: 1px 0px 0px 0px;
+  border: 1px solid rgba(255, 90, 48, 1);
+  background-color: transparent;
+  color: rgba(255, 90, 48, 1);
+}
+
+.partners-div {
+  width: 1920px;
+  height: 934px;
+  top: 4553px;
+  background: rgba(244, 245, 246, 1);
+  padding: 20px;
+  margin-top: 100px;
+}
+
+.partners_header {
+  width: 584px;
+  height: 60px;
+  top: 4633px;
+  left: 668px;
+  margin-left: 500px;
+  font-family: Ubuntu;
+  font-size: 46px;
+  font-weight: 700;
+  color: rgba(30, 33, 44, 1);
+}
+
+.clients_header {
+  width: 600px;
+  height: 60px;
+  font-family: Ubuntu;
+  font-size: 46px;
+  font-weight: 700;
+  color: rgba(30, 33, 44, 1);
+  margin-top: 200px;
+}
+
+.deal-pic {
+  margin-left: 470px;
+}
+
+.feedback_section {
+  margin-left: 100px;
+}
+
+.facts_header {
+  width: 600px;
+  height: 60px;
+  font-family: Ubuntu;
+  font-size: 46px;
+  font-weight: 700;
+  color: rgba(30, 33, 44, 1);
+  margin-left: 45px;
+}
+
+.client_feedback {
+  width: 600px;
+  height: 78px;
+  font-family: Ubuntu;
+  font-size: 16px;
+  font-weight: 400;
+  color: rgba(66, 69, 81, 1);
+}
+
+.facts_figures {
+  margin-left: 400px;
+  margin-top: 100px;
+}
+
+.facts_figures > p {
+  width: 148px;
+  height: 21px;
+  font-family: Ubuntu;
+  font-size: 14px;
+  font-weight: 400;
+  color: rgba(30, 33, 44, 1);
+}
+
+.recent_news_header {
+  width: 600px;
+  height: 60px;
+  margin-left: 600px;
+  font-family: Ubuntu;
+  font-size: 46px;
+  font-weight: 700;
+}
+
+.news_intro {
+  width: 657px;
+  height: 30px;
+  font-family: Ubuntu;
+  font-size: 20px;
+  font-weight: 700;
+  color: rgba(30, 33, 44, 1);
+}
+
+.news_date {
+  width: 330px;
+  height: 21px;
+  font-family: Ubuntu;
+  font-size: 14px;
+  font-weight: 400;
+  color: rgba(120, 122, 128, 1);
+}
+
+.news_text {
+  width: 657px;
+  height: 52px;
+  font-family: Ubuntu;
+  font-size: 16px;
+  font-weight: 400;
+  color: rgba(66, 69, 81, 1);
+}
+
+.selected_news {
+  color: rgba(255, 90, 48, 1);
+}
+
+.explore_text {
+  width: 352px;
+  height: 42px;
+  font-family: Ubuntu;
+  font-size: 28px;
+  font-weight: 700;
+  color: rgba(30, 33, 44, 1);
+}
+
+.formSection {
+  background-image: url(/images/formBg.png);
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 826px;
+}
+
+.form {
+  width: 495px;
+  height: 666px;
+  top: 80px;
+  left: 1080px;
+  padding: 48px 40px 48px 40px;
+  gap: 0px;
+  border-radius: 4px 0px 0px 0px;
+  border: 1px 0px 0px 0px;
+  opacity: 0px;
+  border: 1px solid rgba(229, 232, 237, 1);
+  background-color: rgba(229, 232, 237, 1);
+}
+
+.input_style {
+  width: 115px;
+  height: 44px;
+  top: 29px;
+  padding: 11px 331px 12px 16px;
+  gap: 0px;
+  border-radius: 4px 0px 0px 0px;
+  border: 1px 0px 0px 0px;
+  opacity: 0px;
+}
+
+.label_style {
+  width: 45px;
+  height: 21px;
+  font-family: Ubuntu;
+  font-size: 14px;
+  font-weight: 400;
+  color: rgba(66, 69, 81, 1);
+}
+
+.terms_conditions {
+  width: 387px;
+  height: 42px;
+  font-family: Ubuntu;
+  font-size: 14px;
+  font-weight: 400;
+  color: rgba(66, 69, 81, 1);
+}
+
+.send-request-btn {
+  width: 184px;
+  height: 50px;
+  padding: 0px 32px 0px 32px;
+  gap: 10px;
+  border-radius: 4px 0px 0px 0px;
+  opacity: 0px;
+  background-color: rgba(255, 90, 48, 1);
+  border-color: transparent;
+  margin-top: 60px;
+  margin-left: 100px;
+  color: white;
+}
+
+.footer {
+  width: 1920px;
+  /* height: 566px; */
+  top: 7894px;
+  gap: 0px;
+  opacity: 0px;
+  background: rgba(30, 33, 44, 1);
+  padding: 80px 345px 80px 345px;
+}
+
+.footer_text {
+  width: 493px;
+  height: 84px;
+  top: 128px;
+  left: 345px;
+  gap: 0px;
+  opacity: 0.6px;
+
+  font-family: Ubuntu;
+  font-size: 14px;
+  font-weight: 400;
+  color: rgba(255, 255, 255, 1);
+}
+
+.socials_pic {
+  width: 184px;
+  height: 24px;
+  margin-left: 30px;
+}
+
+.stayInTouch {
+  width: 495px;
+  height: 36px;
+  top: 80px;
+  left: 1080px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Ubuntu;
+  font-size: 24px;
+  font-weight: 700;
+  color: rgba(255, 255, 255, 1);
+}
+
+.subscribe_input {
+  width: 495px;
+  height: 44px;
+  /* padding: 11px 359px 12px 16px; */
+  padding-left: 16px;
+  gap: 0px;
+  border-radius: 4px 0px 0px 0px;
+  border: 1px 0px 0px 0px;
+  opacity: 0px;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  background: rgba(255, 255, 255, 0.12);
+}
+
+.subscribe_btn {
+  width: 131 px;
+  height: 44px;
+  left: 364px;
+  padding: 0px 32px 0px 32px;
+  gap: 10px;
+  border-radius: 0px 4px 4px 0px;
+  opacity: 0px;
+  background: rgba(255, 90, 48, 1);
+  color: white;
+}
+
+.subscribe_note {
+  width: 495px;
+  height: 36px;
+  top: 200px;
+  left: 1080px;
+  gap: 0px;
+  opacity: 0.6px;
+  font-family: Ubuntu;
+  font-size: 12px;
+  font-weight: 400;
+  margin-top: 10px;
+  color: rgba(255, 255, 255, 1);
+}
+
+.contact_info {
+  width: 282px;
+  height: 26px;
+  gap: 0px;
+  opacity: 0.6px;
+  font-family: Ubuntu;
+  font-size: 16px;
+  font-weight: 400;
+  color: rgba(255, 255, 255, 100%);
+}
+
+.contact_type {
+  font-family: Ubuntu;
+  font-size: 16px;
+  font-weight: 400;
+  width: 63px;
+  height: 26px;
+  gap: 0px;
+  opacity: 0px;
+  color: rgba(255, 255, 255, 1);
+}
+
+.head_office {
+  width: 115px;
+  height: 24px;
+  top: 285px;
+  left: 345px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Ubuntu;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+  color: rgba(255, 255, 255, 1);
+}
